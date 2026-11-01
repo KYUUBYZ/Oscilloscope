@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/pwmsybj35fe18z8t8ve6upml)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> It Will be a normal cheap oscilloscope
+> This is my DIY oscilloscope, it's not a super advanced one, but you can measure PWM signals with this, in my case i work a lot with servos so it's an useful project, lemme know what you think about it.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
