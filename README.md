@@ -35,9 +35,7 @@
 | RP2040-Zero | 1 | AliExpress | $3.90 | $3.90 | [Link](https://www.aliexpress.com/item/1005010768723373.html?spm=a2g0o.cart.0.0.4b8438daNiUA5Y&mp=1&pdp_npi=6%40dis%21USD%21USD%203.90%21USD%203.90%21%21USD%203.90%21%21%21%400b88486a17935424509128878e0ea7%2112000056461341594%21ct%21IT%216215000935%21%211%210%21) |
 | MSP2402 | 1 | Aliexpress | $4.80 | $4.80 | [Link](https://it.aliexpress.com/item/1005006173440437.html?spm=a2g0o.cart.0.0.4b8438daNiUA5Y&mp=1&pdp_npi=6%40dis%21USD%21USD%208.57%21USD%204.80%21%21USD%204.80%21%21%21%400b88486a17935424485818824e0ea7%2112000036216232691%21ct%21IT%216215000935%21%211%210%21&gatewayAdapt=glo2ita) |
 | BNC | 1 | AliExpress | $6.33 | $6.33 | [Link](https://www.aliexpress.com/item/1005003950007418.html?spm=a2g0o.cart.0.0.4b8438daNiUA5Y&mp=1&pdp_npi=6%40dis%21USD%21USD%206.48%21USD%206.33%21%21USD%206.33%21%21%21%400b88486a17935424485818824e0ea7%2112000027542547180%21ct%21IT%216215000935%21%211%210%21) |
-| Estimated total shipping | 1 |  | $0.00 | $0.00 |  |
-| Estimated total shipping | 1 |  | $0.00 | $0.00 |  |
-| Estimated total shipping | 1 |  |  | $0.00 |  |
+| Estimated total shipping | 1 |  |  | $8.00 |  |
 <!--END_SECTION:BOM-TABLE-->
 
 This is my DIY oscilloscope, it's not a super advanced one, but you can measure PWM signals with this, in my case i work a lot with servos so it's an useful project, lemme know what you think about it.
