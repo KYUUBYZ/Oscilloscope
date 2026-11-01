@@ -2,7 +2,6 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 Conn_01x02_Pin,1,,$0.00,$0.00,
 720R,2,,$0.00,$0.00,
 P,1,,$0.00,$0.00,
-TestPoint,7,,$0.00,$0.00,
 10k,2,Unikeyic,$0.00,$0.00,https://www.unikeyic.com/products/surface-mount-resistors/0805w8f1002t5e/33861683.html?sku=1003001012328856
 47R,1,Unikeyic,$0.00,$0.00,https://www.unikeyic.com/products/surface-mount-resistors/frc0805f47r0ts/982873643.html?sku=1003001039920123
 1K,1,Unikeyic,$0.00,$0.00,https://www.unikeyic.com/products/surface-mount-resistors/wr08x102-jtl/33997435.html?sku=1003001013110885
