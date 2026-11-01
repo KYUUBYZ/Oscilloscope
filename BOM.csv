@@ -1,2 +1,38 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Qty,Value,Cost per unit,Link
+1,Conn_01x02_Pin,0,
+2,720R,0,
+1,P,0,
+7,TestPoint,0,
+2,10k,$0.0017,https://www.unikeyic.com/products/surface-mount-resistors/0805w8f1002t5e/33861683.html?sku=1003001012328856
+1,47R,$0.0027,https://www.unikeyic.com/products/surface-mount-resistors/frc0805f47r0ts/982873643.html?sku=1003001039920123
+1,1K,$0.0031,https://www.unikeyic.com/products/surface-mount-resistors/wr08x102-jtl/33997435.html?sku=1003001013110885
+1,1k,$0.0031,https://www.unikeyic.com/products/surface-mount-resistors/wr08x102-jtl/33997435.html?sku=1003001013110885
+1,470k,$0.005,https://www.unikeyic.com/products/surface-mount-resistors/ac0805jr-07470kl/32881456.html?sku=1003001023882967
+1,0R,$0.0057,https://www.unikeyic.com/products/surface-mount-resistors/rtt050000ftp/30082103.html?sku=1003001013772933
+3,100nF,$0.0059,https://www.unikeyic.com/products/ceramic-capacitors/0805b104k250ct/6132896.html?sku=1003001022740982
+1,BAT54S,$0.0094,https://www.unikeyic.com/products/schottky-diodes/bat54s/1005561198.html?sku=1003001034622180
+1,1nF,$0.014,https://www.unikeyic.com/products/ceramic-capacitors/cc0805krx7rabb102/7614988.html?sku=1003001445182757
+2,2.2pF,$0.0145,https://www.unikeyic.com/products/ceramic-capacitors/cc0805crnpo9bn2r2/20735051.html?sku=1003001010741217
+1,SN74LVC1G125DCK,$0.0157,https://www.unikeyic.com/products/logic-buffers-and-line-drivers/sn74lvc1g125dckr/1014674710.html?sku=1003001043007378
+1,10nF,$0.0226,https://www.unikeyic.com/products/ceramic-capacitors/ac0805kkx7rybb103/17516205.html?sku=1003001016410454
+1,10pF 1%,$0.0227,https://www.unikeyic.com/products/ceramic-capacitors/cc0805frnpo9bn100/7443730.html?sku=1003001011768162
+1,100nF,$0.0227,https://www.unikeyic.com/products/ceramic-capacitors/0805b104k250ct/6132896.html?sku=1003001022740982
+1,10uM,$0.0261,https://www.unikeyic.com/products/chip-inductor/mlf2012e100kt000/24229775.html?sku=1003001445897236
+3,1uF,$0.0285,https://www.unikeyic.com/products/ceramic-capacitors/c0805c105j8nac7800/7749019.html?sku=1003001430122656
+1,1N5819,$0.0333,https://www.unikeyic.com/products/other-diodes/1n5819/25738005.html?sku=1003001013772519
+1,22pF,$0.0335,https://www.unikeyic.com/products/ceramic-capacitors/cc0805frnpo9bn220/5559781.html?sku=100300109292543
+1,100pF,$0.0338,https://www.unikeyic.com/products/ceramic-capacitors/gcm2165c2a101ja16d/20357284.html?sku=1003001021093361
+1,27pF,$0.0346,https://www.unikeyic.com/products/ceramic-capacitors/cc0805frnpo9bn270/21734348.html?sku=1003001020073576
+2,499k 0.1%,$0.0376,https://www.unikeyic.com/products/surface-mount-resistors/tc0525b4993t5g/688229128.html?sku=1003001046152118
+2,22uF,$0.0635,https://www.unikeyic.com/products/ceramic-capacitors/tcc0805x5r226m160ft/21907184.html?sku=1003001026937046
+1,10uF,$0.0661,https://www.unikeyic.com/products/ceramic-capacitors/0805x106k160ct/17200396.html?sku=1003001013112822
+4,10k 0.1%,$0.0703,https://www.unikeyic.com/products/surface-mount-resistors/ptfr0805b10k0p9/7247758.html?sku=1003001017271404
+1,50R,$0.072,https://www.unikeyic.com/products/balun/hhm1517/10710165.html?sku=1003001021768112
+1,MT3608,$0.1017,https://www.unikeyic.com/products/other-ics/mt3608/34222425.html?sku=1003001013612482
+1,OPA2365AID,$0.43,https://www.unikeyic.com/products/op-amplifiers/opa2365aidr/33377575.html?sku=1003001434234027
+1,REF5050AD,$0.72,https://www.unikeyic.com/products/voltage-references-ics/ref5050aidgkr/34018870.html?sku=1003001031469596
+1,OPA735AIDBVR,$2,73,https://www.mouser.it/it/ProductDetail/Texas-Instruments/OPA357AIDBVR?qs=7nS3%252BbEUL6uIWR0id097%252BQ%3D%3D&utm_id=24206691039&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=24206691039&gclid=CjwKCAjwxpvXBhASEiwAue4B4ZxcLQ5fMlohJZz3aoS09P9LjA8GFjOJvXAfadxHdzg2WgkDSHqfuBoCufAQAvD_BwE
+1,ADS7883SBDBVR,$3.6624,https://www.unikeyic.com/products/adcs/ads7883sdbvr/33187951.html?sku=1003001027332150
+1,RP2040-Zero,$3.90,https://www.aliexpress.com/item/1005010768723373.html?spm=a2g0o.cart.0.0.4b8438daNiUA5Y&mp=1&pdp_npi=6%40dis%21USD%21USD%203.90%21USD%203.90%21%21USD%203.90%21%21%21%400b88486a17935424509128878e0ea7%2112000056461341594%21ct%21IT%216215000935%21%211%210%21
+1,MSP2402,$4.80,https://it.aliexpress.com/item/1005006173440437.html?spm=a2g0o.cart.0.0.4b8438daNiUA5Y&mp=1&pdp_npi=6%40dis%21USD%21USD%208.57%21USD%204.80%21%21USD%204.80%21%21%21%400b88486a17935424485818824e0ea7%2112000036216232691%21ct%21IT%216215000935%21%211%210%21&gatewayAdapt=glo2ita
+1,BNC,$6.33 ,https://www.aliexpress.com/item/1005003950007418.html?spm=a2g0o.cart.0.0.4b8438daNiUA5Y&mp=1&pdp_npi=6%40dis%21USD%21USD%206.48%21USD%206.33%21%21USD%206.33%21%21%21%400b88486a17935424485818824e0ea7%2112000027542547180%21ct%21IT%216215000935%21%211%210%21
