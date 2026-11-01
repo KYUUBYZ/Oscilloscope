@@ -48,10 +48,10 @@ My oscilloscope uses an RP2040-ZERO as microcontroller, i use it a lot, it's che
 The BNC gets its data and they get sent to the Vbias and +IN_A definer (part of the opa2365 module) and they become readeble data for the ADS7883's VIN where they become a 12 bits sequence and become digital , so, readable for the RP2040-ZERO's chip
 
 # Up-view:
-<img width="1264" height="773" alt="Immagine 2026-11-01 153215" src="https://github.com/user-attachments/assets/b070e582-5a7c-490d-bc4e-c148bed164ae" />
+<img width="1226" height="927" alt="image" src="https://github.com/user-attachments/assets/996408fc-62c0-4ec3-a0c2-0b5c61d2aefa" />
 
 # Front-view:
-<img width="1081" height="927" alt="Immagine 2026-11-01 153210" src="https://github.com/user-attachments/assets/3eb66196-b794-48c7-8d05-8815fa2f914a" />
+<img width="1237" height="782" alt="image" src="https://github.com/user-attachments/assets/f8d1e770-773f-4284-a59c-546274581c9f" />
 
 # PCB-view:
 <img width="849" height="714" alt="Immagine 2026-11-01 153140" src="https://github.com/user-attachments/assets/8dfdb3e3-8483-4c6c-9e5a-a60f825dad5d" />
