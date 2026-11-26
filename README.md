@@ -8,7 +8,7 @@
 | HRC0805F4703FNTN | 100 | LCSC | 0.0019 | 0.19 | [Link](https://www.lcsc.com/product-detail/C54921198.html) |
 | CGA0805X7R104K500KT | 100 | LCSC | 0.0043 | 0.43 | [Link](https://www.lcsc.com/product-detail/C7503486.html) |
 | BAT54S | 100 | LCSC | 0.0123 | 1.23 | [Link](https://www.lcsc.com/product-detail/C916425.html) |
-| FM21X102K501PXG | 250 | LCSC | 0.0080 | 2.00 | [Link](https://www.lcsc.com/product-detail/C440004.html) |
+| FM21X102K501PXG | 100 | LCSC | 0.0080 | 0.8 | [Link](https://www.lcsc.com/product-detail/C440004.html) |
 | CC0805CRNPO9BN2R2 | 50 | LCSC | 0.0144 | 0.72 | [Link](https://www.lcsc.com/product-detail/C519933.html) |
 | SN74LVC1G125DCKR(AT) | 20 | LCSC | 0.0381 | 0.76 | [Link](https://www.lcsc.com/product-detail/C54973442.html) |
 | TCC0805X7R103K251DT | 100 | LCSC | 0.0061 | 0.61 | [Link](https://www.lcsc.com/product-detail/C282726.html) |
